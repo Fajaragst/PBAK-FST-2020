@@ -2198,5 +2198,18 @@ a:hover.back-to-top {
 /* Time Counter */
 #counter {
   /* color: #fff; */
-  font-size: 3em
+  font-size: 1em
+}
+
+.logo-himpunan {
+  width: 0px;
+  height: 0px;
+}
+
+.navbar{
+  background-color: #fff;
+}
+
+.navbar-logo{
+  color: #FFD358;
 }
