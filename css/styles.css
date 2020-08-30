@@ -2203,6 +2203,10 @@ a:hover.back-to-top {
   height: 0px;
 } */
 
+#counter{
+  font-size: 30px;
+}
+
 .navbar{
   background-color: #fff;
 }
