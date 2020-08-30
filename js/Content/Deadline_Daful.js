@@ -2,7 +2,7 @@
 
 
 // Mengatur waktu akhir perhitungan mundur
-var countDownDate = new Date("Sep 7, 2020 16:59:00").getTime();  
+var countDownDate = new Date("Sep 7, 2020 23:59:00").getTime();
 
 // Memperbarui hitungan mundur setiap 1 detik
 var x = setInterval(function() {
@@ -26,6 +26,7 @@ var x = setInterval(function() {
   // Jika hitungan mundur selesai, tulis beberapa teks
   if (distance < 0) {
     clearInterval(x);
+    document.getElementById("counter").innerHTML = "EXPIRED";
     document.getElementById("counter").innerHTML = "EXPIRED";
   }
 }, 1000);
