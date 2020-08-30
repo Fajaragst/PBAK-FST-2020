@@ -21,12 +21,12 @@ var x = setInterval(function() {
 
   // Keluarkan hasil dalam elemen dengan id = "demo"
   document.getElementById("counter").innerHTML = days + "d : " + hours + "h : "
-  + minutes + "m :" + seconds + "s ";
+  + minutes + "m : " + seconds + "s ";
 
   // Jika hitungan mundur selesai, tulis beberapa teks
   if (distance < 0) {
     clearInterval(x);
     document.getElementById("counter").innerHTML = "EXPIRED";
-    document.getElementById("counter").innerHTML = "EXPIRED";
+    // document.getElementById("counter").innerHTML = "EXPIRED";
   }
 }, 1000);
