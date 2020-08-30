@@ -20,8 +20,8 @@ var x = setInterval(function() {
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
   // Keluarkan hasil dalam elemen dengan id = "demo"
-  document.getElementById("counter").innerHTML = days + "d " + hours + "h "
-  + minutes + "m " + seconds + "s ";
+  document.getElementById("counter").innerHTML = days + "d :" + hours + " h :"
+  + minutes + " m :" + seconds + " s ";
 
   // Jika hitungan mundur selesai, tulis beberapa teks
   if (distance < 0) {
