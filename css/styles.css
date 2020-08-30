@@ -162,7 +162,7 @@ a.white {
 	border: 0.125rem solid #FCC930;;
 	border-radius: 2rem;
 	background-color: #FCC930;/*#00bfd8;*/
-	color: #fff;
+	color: #000;
 	font: 700 0.75rem/0 "Raleway", sans-serif;
 	text-decoration: none;
 	transition: all 0.2s;
@@ -2196,15 +2196,12 @@ a:hover.back-to-top {
 
 
 /* Time Counter */
-#counter {
-  /* color: #fff; */
-  font-size: 1em
-}
 
-.logo-himpunan {
+
+/* .logo-himpunan {
   width: 0px;
   height: 0px;
-}
+} */
 
 .navbar{
   background-color: #fff;
