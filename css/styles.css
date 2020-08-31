@@ -762,6 +762,10 @@ input[type='checkbox'] {
 	/* background-color: #84321D; */
 }
 
+.twibon{
+  background: url('https://i.ibb.co/WvLGpFM/back-1.jpg') no-repeat;
+}
+
 .header .header-content {
 	padding-top: 8rem;
 	padding-bottom: 4rem;
@@ -1871,6 +1875,11 @@ a:hover.back-to-top {
 		background-size: cover;
 	}
 
+  .twibon{
+    background: url('https://i.ibb.co/WvLGpFM/back-1.jpg') no-repeat;
+    background-size: cover;
+  }
+
 	.header .header-content {
 		padding-top: 11.5rem;
 		text-align: left;
@@ -2215,7 +2224,8 @@ a:hover.back-to-top {
 .navbar-logo{
   color: #FFD358;
 } */
-.twibon{
-  background: url('https://i.ibb.co/WvLGpFM/back-1.jpg')  no-repeat;
-  /* background-color: #000; */
+
+.about{
+  display: flex;
+  justify-content: center;
 }
