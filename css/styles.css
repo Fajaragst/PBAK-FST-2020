@@ -1004,6 +1004,9 @@ input[type='checkbox'] {
 	padding-bottom: 2.75rem;
 	text-align: center;
 }
+.cards-2 p{
+  color: #000;
+}
 
 .cards-2 h2 {
 	margin-bottom: 1rem;
@@ -2174,7 +2177,9 @@ a:hover.back-to-top {
 	}
 	/* end of tugas */
 
-
+  .cards-2 p{
+    color: #000;
+  }
 	/* Request */
 	.form-1 .text-container {
 		margin-right: 1.5rem;
