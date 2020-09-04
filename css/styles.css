@@ -16,7 +16,7 @@ Table Of Contents:
 07. Details 1
 08. Details 2
 09. Details Lightboxes
-10. Pricing
+10. tugas
 11. Request
 12. Video
 13. Testimonials
@@ -997,7 +997,7 @@ input[type='checkbox'] {
 
 
 /***********************/
-/*     10. Pricing     */
+/*     10. tugas     */
 /***********************/
 .cards-2 {
 	padding-top: 3rem;
@@ -1978,7 +1978,7 @@ a:hover.back-to-top {
 	/* end of details lightboxes */
 
 
-	/* Pricing */
+	/* tugas */
 	.cards-2 .card {
 		display: inline-block;
 		width: 17.125rem;
@@ -1990,7 +1990,7 @@ a:hover.back-to-top {
   .cards-2 p{
     color: #000;
   }
-	/* end of pricing */
+	/* end of tugas */
 
 
 	/* Request */
@@ -2166,13 +2166,13 @@ a:hover.back-to-top {
 	/* end of details 2 */
 
 
-	/* Pricing */
+	/* tugas */
 	.cards-2 .card {
 		width: 19.5rem;
 		margin-right: 1.625rem;
 		margin-left: 1.625rem;
 	}
-	/* end of pricing */
+	/* end of tugas */
 
 
 	/* Request */
